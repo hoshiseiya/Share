@@ -9,13 +9,23 @@
         ]
     },
     {
-        "name": "本地包",
+        "name": "当前版本",
+        "list": [
+            {
+                "name": "单线路",
+                "url": "",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png"
+            }
+        ]
+    },
+    {
+        "name": "检查更新",
         "list": [
             {
                 "name": "单线路",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/hoshiseiya/Share/main/单线路.zip",
                 "icon": "",
-                "version": "20250108-4"
+                "version": "1.11"
             }
         ]
     }
